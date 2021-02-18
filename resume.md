@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Resume
+permalink: /resume/
 ---
 
 Some information about you!
