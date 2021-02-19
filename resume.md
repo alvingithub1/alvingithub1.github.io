@@ -4,4 +4,5 @@ title: Resume
 permalink: /resume/
 ---
 
-<embed src="/Users/alvinaccad/Documents/GitHub/alvingithub1.github.io/Alvin_Accad_Resume_ 02192021.pdf" type="application/pdf">
+
+![alt text](https://github.com/alvingithub1/alvingithub1.github.io/blob/images/Alvin_Accad_Resume_ 02192021 copy-1 2.png?raw=true)
