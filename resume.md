@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-[link] /Users/alvinaccad/Documents/Resumes - Jobs/Computer Science/Final
+[here] (//Users/alvinaccad/Documents/GitHub/alvingithub1.github.io/Alvin_Accad_Resume_ 02192021.pdf)
